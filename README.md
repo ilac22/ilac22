@@ -1,4 +1,1 @@
-- 👋 eu sou @ilac22
-- 👀 eu estou interessado em aprender a programar
-- 🌱 eu estou aprendendo scrath 
-- 💞️ eu estou estudando
+
